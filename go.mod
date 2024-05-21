@@ -1,6 +1,6 @@
 module github.com/dcpak/jqfmt
 
-go 1.21
+go 1.21.5
 
 require (
 	github.com/itchyny/gojq v0.12.14
