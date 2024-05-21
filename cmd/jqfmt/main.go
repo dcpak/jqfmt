@@ -8,7 +8,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/noperator/jqfmt"
+	"github.com/dcpak/jqfmt"
 )
 
 func assertErrorToNilf(message string, err error) {
