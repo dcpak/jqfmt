@@ -1,4 +1,4 @@
-module github.com/noperator/jqfmt
+module github.com/dcpak/jqfmt
 
 go 1.21
 
